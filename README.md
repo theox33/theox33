@@ -1,5 +1,3 @@
-# Théo Avril — Embedded Systems Engineer & Future Systems Architect
-
 <p align="center">
   <img src="assets/github-banner-theo-avril.png" alt="Théo Avril — Embedded Systems & Systems Architecture" />
 </p>
